@@ -5,7 +5,7 @@ This repository contains a collection of useful Python scripts designed to assis
 ## 🔧 Tools by Category
 
 ### Avalonia .NET Tools
-- `Avalonia.NET.Tools/AvaloniaProjectAnalyzer.py`: Analyzes Avalonia project structure, including `.csproj` and `.axaml` files, to identify missing files, resources, and structural issues.
+- `Avalonia.NET.Tools/avalonia_project_analyzer.py`: Analyzes Avalonia project structure, including `.csproj` and `.axaml` files, to identify missing files, resources, and structural issues.
 - `Avalonia.NET.Tools/binding_analyzer.py`: Scans XAML for missing ViewModel bindings.
 - `Avalonia.NET.Tools/XAML_Format_Error_Hunter.py`: Detects broken or malformed XAML.
 

@@ -1,4 +1,4 @@
-# DotNetDev: Python Scripts for .NET Software Development with AI
+# PyDotNetDev: Python Scripts for .NET Software Development with AI
 
 This repository contains a collection of useful Python scripts designed to assist with various aspects of .NET software development, focusing on analysis, debugging, and integration, often leveraging AI-driven insights.
 
